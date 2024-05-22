@@ -7,6 +7,7 @@ main {
 	display: flex;
 	flex-direction: column;
 	background-image: url(200w.gif);
+	min-height: 100%;
 }
 
 .ui-body {
@@ -55,6 +56,7 @@ body div h1 {
 	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 8%;
 }
 
 .ui-btn.my-tooltip-btn,
