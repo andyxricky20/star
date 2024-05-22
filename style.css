@@ -104,6 +104,7 @@ body div h1 {
 	margin-top: 215px;
 	right: 20px;
 	height: 599px;
+	border-radius: 15px;
 }
 .heroimg .scale2 .gamepic {
 	display: flex;
