@@ -1,0 +1,112 @@
+@charset "utf-8";
+html {
+  scroll-behavior: smooth;
+}
+main {
+	background-color: rgba(255,141,254,0.49);
+	display: flex;
+	flex-direction: column;
+	background-image: url(200w.gif);
+}
+
+.ui-body {
+	background-color: rgba(255,151,235,0.47);
+	border-radius: 37px;
+	color: rgba(0,0,0,1.00);
+	font-weight: bolder;
+	padding-left: auto;
+	padding-right: auto;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 22px;
+	background-image: url(image-from-rawpixel-id-5921671-jpeg.jpg);
+	width: 50%;
+	
+}
+.col1 {
+	width: 62%;
+}
+
+
+
+
+
+body div h1 {
+	width: 100%;
+	height: 96px;
+	text-align: center;
+	font-size: 77px;
+	background-color: rgba(20,0,54,0.78);
+	text-shadow: 3px 1px 0px rgba(0,0,0,1.00);
+	background-image: url(tumblr_mv5g1pUzYi1skat7bo1_1280.gif);
+	font-weight: bolder;
+	color: rgba(255,255,255,0.58);
+	background-size: 273px 190px;
+	border-radius: 39px;
+}
+
+.ui-bar.ui-bar-a.ui-corner-all {
+	text-align: justify;
+	font-weight: bold;
+	padding-left: 0px;
+	background-color: rgba(0,0,0,1.00);
+	color: rgba(255,255,255,1.00);
+	font-size: 27px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.ui-btn.my-tooltip-btn,
+.ui-btn.my-tooltip-btn:hover,
+.ui-btn.my-tooltip-btn:active {
+    background: none;
+    border: 0;
+}
+.heroimg {
+	background-image: url(image-from-rawpixel-id-5921671-jpeg.jpg);
+	border-radius: 33px;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: auto;
+	padding-right: auto;
+	left: auto;
+	right: auto;
+	justify-content: space-around;
+}
+
+.scale01 {
+	display: flex;
+	flex-wrap: wrap;
+	width: 35%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: auto;
+	padding-right: auto;
+	left: auto;
+	right: auto;
+	font-weight: bolder;
+	color: rgba(0,0,0,1.00);
+	font-size: 26px;
+	border-radius: 21px;
+}
+.scale01 p img {
+	border-radius: 21px;
+}
+.heroimg .scale2 {
+	width: 15%;
+	background-color: rgba(227,202,202,1.00);
+	font-weight: bolder;
+	color: rgba(0,0,0,1.00);
+	font-size: 30px;
+	text-align: center;
+	margin-top: 215px;
+	right: 20px;
+	height: 599px;
+}
+.heroimg .scale2 .gamepic {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
